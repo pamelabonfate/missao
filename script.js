@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Exposição ao sol em excesso",
-                afirmacao: "A exposição excessiva ao sol está mais associada ao câncer de pele do que ao câncer de pulmão.ao1"
+                afirmacao: "A exposição excessiva ao sol está mais associada ao câncer de pele do que ao câncer de pulmão."
             },
             {
                 texto: "Tabagismo",
@@ -23,11 +23,11 @@ const perguntas = [
         enunciado: "Qual tipo de câncer é mais frequentemente associado ao HPV (Papilomavírus Humano)?",
         alternativas: [
             {
-                texto: "Câncer cervical.",
+                texto: "Câncer cervical",
                 afirmacao: "O HPV é amplamente reconhecido como um fator de risco significativo para o câncer cervical, e a vacinação contra o HPV pode ajudar a prevenir esse tipo de câncer."
             },
             {
-                texto: "Câncer de mama.",
+                texto: "Câncer de mama",
                 afirmacao: "Embora o HPV esteja relacionado a vários tipos de câncer, o câncer de mama não é um dos principais associados a este vírus."
             }
            
@@ -37,11 +37,11 @@ const perguntas = [
         enunciado: "Qual é uma das abordagens principais no tratamento do câncer em estágio inicial?",
         alternativas: [
             {
-                texto: "Quimioterapia.",
+                texto: "Quimioterapia",
                 afirmacao:"A quimioterapia é frequentemente usada para tratar cânceres mais avançados ou metastáticos, e não é a abordagem principal para cânceres em estágio inicial."
             },
             {
-                texto: "Cirurgia.",
+                texto: "Cirurgia",
                 afirmacao:"A cirurgia é frequentemente uma das principais abordagens no tratamento de câncer em estágio inicial, visando remover o tumor e tecidos afetados antes que se espalhe para outras partes do corpo."
             }
         ]
