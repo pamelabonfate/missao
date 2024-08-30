@@ -6,43 +6,43 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como você acredita que podemos combater o racismo na sociedade?",
+        enunciado: "Qual é um fator de risco conhecido para o câncer de pulmão?",
         alternativas: [
             {
-                texto: "Participando de campanhas de conscientização e educação sobre igualdade racial.",
-                afirmacao: "afirmacao1"
+                texto: "Exposição ao sol em excesso",
+                afirmacao: "A exposição excessiva ao sol está mais associada ao câncer de pele do que ao câncer de pulmão.ao1"
             },
             {
-                texto: "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
-                afirmacao: "afirmacao2"
+                texto: "Tabagismo",
+                afirmacao: "O tabagismo é um fator de risco significativo para o câncer de pulmão, sendo responsável por uma grande parte dos casos diagnosticados."
             }
            
         ]
     },
     {
-        enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+        enunciado: "Qual tipo de câncer é mais frequentemente associado ao HPV (Papilomavírus Humano)?",
         alternativas: [
             {
-                texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
-                afirmacao: "afirmacao3"
+                texto: "Câncer cervical.",
+                afirmacao: "O HPV é amplamente reconhecido como um fator de risco significativo para o câncer cervical, e a vacinação contra o HPV pode ajudar a prevenir esse tipo de câncer."
             },
             {
-                texto: "Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
-                afirmacao: "afirmacao4"
+                texto: "Câncer de mama.",
+                afirmacao: "Embora o HPV esteja relacionado a vários tipos de câncer, o câncer de mama não é um dos principais associados a este vírus."
             }
            
         ]
     },
     {
-        enunciado: "Como podemos incentivar o uso de energia solar e outras formas de energia limpa, especialmente em comunidades carentes?",
+        enunciado: "Qual é uma das abordagens principais no tratamento do câncer em estágio inicial?",
         alternativas: [
             {
-                texto: "Defendendo políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
-                afirmacao:"afirmacao5"
+                texto: "Quimioterapia.",
+                afirmacao:"A quimioterapia é frequentemente usada para tratar cânceres mais avançados ou metastáticos, e não é a abordagem principal para cânceres em estágio inicial."
             },
             {
-                texto: "Promovendo a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
-                afirmacao:"afirmacao6"
+                texto: "Cirurgia.",
+                afirmacao:"A cirurgia é frequentemente uma das principais abordagens no tratamento de câncer em estágio inicial, visando remover o tumor e tecidos afetados antes que se espalhe para outras partes do corpo."
             }
         ]
     }
